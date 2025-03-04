@@ -16,6 +16,22 @@ public class Cards {
 	public void goldenCard()
 	{
 		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
+		System.out.println("goldencard @Test");
 	}
 	@BeforeTest(groups= {"Regression"})
 	public void debitCard() {

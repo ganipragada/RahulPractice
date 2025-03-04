@@ -26,6 +26,16 @@ public class BooksAndPens {
 	@Test
 	public void book3() {
 		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
+		System.out.println("book3");
 	}
 
 	@Test(groups = { "Smoke" })
