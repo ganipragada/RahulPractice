@@ -15,7 +15,13 @@ public class BooksAndPens {
 	@Test
 	public void book2() {
 		System.out.println("book2");
-	}
+		System.out.println("book2");
+		System.out.println("book2");
+		System.out.println("book2");
+		System.out.println("book2");
+		System.out.println("book2");
+		System.out.println("book2");
+		}
 
 	@Test
 	public void book3() {
